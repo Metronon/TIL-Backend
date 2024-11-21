@@ -19,3 +19,5 @@
 [11/19-[함수, 매개변수, 클래스]](https://github.com/Metronon/TIL-Backend/blob/main/Java-Basic/24-11-19.md)
 
 [11/20-[상속, 추상, 캐스팅]](https://github.com/Metronon/TIL-Backend/blob/main/Java-Basic/24-11-20.md)
+
+[11/21-[형변환, 생성자, 리스트, 래퍼]](https://github.com/Metronon/TIL-Backend/blob/main/Java-Basic/24-11-21.md)
