@@ -21,3 +21,5 @@
 [11/20-[상속, 추상, 캐스팅]](https://github.com/Metronon/TIL-Backend/blob/main/Java-Basic/24-11-20.md)
 
 [11/21-[형변환, 생성자, 리스트, 래퍼]](https://github.com/Metronon/TIL-Backend/blob/main/Java-Basic/24-11-21.md)
+
+[11/22-[형변환, 생성자, 리스트, 래퍼]](https://github.com/Metronon/TIL-Backend/blob/main/Java-Basic/24-11-21.md)
