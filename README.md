@@ -22,4 +22,6 @@
 
 [11/21-[형변환, 생성자, 리스트, 래퍼]](https://github.com/Metronon/TIL-Backend/blob/main/Java-Basic/24-11-21.md)
 
-[11/22-[형변환, 생성자, 리스트, 래퍼]](https://github.com/Metronon/TIL-Backend/blob/main/Java-Basic/24-11-21.md)
+[11/22-[람다, 접근제어자, get/set]](https://github.com/Metronon/TIL-Backend/blob/main/Java-Basic/24-11-22.md)
+
+[11/25-[Stream]](https://github.com/Metronon/TIL-Backend/blob/main/Java-Basic/24-11-25.md)
